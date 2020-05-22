@@ -19,3 +19,6 @@ https://www.tecmint.com/generate-csr-certificate-signing-request-in-linux/?fbcli
 
 #### 30 Helpful Python Snippets You Should Learn Today
 https://morioh.com/p/271bc88c0100?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0r_G3He92YFOfbNJ-ilSz-ttLYVHUhFgoHAwnWpU9niaoSt3JJviehUJU
+
+#### Docker Swarm: Set Up A Cluster Of Docker Engines For Achieving High Availability
+https://medium.com/edureka/docker-swarm-cluster-of-docker-engines-for-high-availability-40d9662a8df1
